@@ -1,3 +1,8 @@
+# Customized bugfix branch for use with Ender 3 powered by SKR Mini e3 v1.2.
+
+This setup contains the following customizations:
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
